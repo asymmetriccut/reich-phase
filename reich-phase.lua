@@ -16,7 +16,7 @@ local mix           = 0.5
 local buf_len       = 30.0
 local phase         = {0.0, 0.0}
 
-local CX1, CX2, CY, R, DOT_R = 32, 96, 32, 20, 3
+local CX1, CX2, CY, R, DOT_R = 32, 96, 25, 13, 2
 
 -- -------------------------
 -- SOFTCUT
